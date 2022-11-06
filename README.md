@@ -1,6 +1,6 @@
 ### Hi there i am 
 
-ꜱʜᴀᴜʀɪ
+ Shauri (˶◕‿◕)ノ✿
 
 A student frontend design & development
 
