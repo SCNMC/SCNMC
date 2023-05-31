@@ -13,4 +13,4 @@ A student frontend design & development
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SCNMC&show_icons=true&theme=tokyonight)](https://github.com/SCNMC/github-readme-stats)
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SCNMC&show_icons=true&theme=tokyonight)](https://github.com/SCNMC/github-readme-stats) -->
