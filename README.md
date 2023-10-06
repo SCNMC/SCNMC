@@ -2,7 +2,7 @@
 
  Shauri ϞϞ (๑⚈ ․̫ ⚈๑)∩
 
-A student frontend design & development
+A student CMD
 
 
 
