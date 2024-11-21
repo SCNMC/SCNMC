@@ -1,6 +1,6 @@
 ### Hi there i am 
 
- Shauri ϞϞ (๑⚈ ․̫ ⚈๑)∩
+ Shauri 
 
 A student CMD
 
